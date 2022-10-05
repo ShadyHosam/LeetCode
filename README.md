@@ -1,5 +1,5 @@
 # LeetCode
-LeetCode Problems Solutions
+LeetCode Problems Solutions for variant difficulties with explanation
 
 How to reach a problem ? <br>
 1- choose the specific file ( Easy - Medium - Hard ) <br>
